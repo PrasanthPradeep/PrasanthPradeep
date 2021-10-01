@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrasanthP
 - 👀 I’m interested in Computer Science, AI and Programming
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me
+- 📫 How to reach me 👇
 
 🔗https://twitter.com/an_indian_life
 

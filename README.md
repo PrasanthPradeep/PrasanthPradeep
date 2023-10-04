@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me 👇
 
-🔗https://twitter.com/an_indian_life
+🔗https://twitter.com/prasanth__p_
 
-🔗https://www.linkedin.com/in/prasanth-p-bbab1320a/
+🔗https://www.linkedin.com/in/prasanth1010000
 
-🔗https://www.kooapp.com/profile/an_indian_life
+🔗https://www.kooapp.com/profile/prasanth__p_
 
-🔗https://www.instagram.com/an_indian_life/
+🔗https://www.instagram.com/prasanth__p_
 
-🔗And a website of mine is in development and will come soon here...😇
+🔗https://www.bit.ly/prasanth__p_

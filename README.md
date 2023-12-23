@@ -1,3 +1,4 @@
+![PrasanthPradeeep Github Readme](https://github.com/PrasanthPradeep/PrasanthPradeep/assets/78849206/cd4bcd9c-b592-4c4e-aab5-8b80b5e94d0b)
 - 👋 Hi, I’m @PrasanthP
 - 👀 I’m interested in Computer Science, AI and Programming
 - 🌱 I’m currently learning Computer Science

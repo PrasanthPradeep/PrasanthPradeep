@@ -4,7 +4,7 @@
 # Hello there! It's me Prasanth P 👋
 
 
-### Bio:
+### A short intro:
 
 CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech | Let's connect! 🤝
             
@@ -24,14 +24,8 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 
 ### <a href="https://www.linkedin.com/in/prasanth1010000/">linkedin</a> | <a href="https://www.github.com/PrasanthPradeep/">github</a> | <a href="https://www.twitter.com/prasanth__p_/">twitter</a> | <a href="https://www.instagram.com/prasanth__p_/">Instagram</a> | <a href="https://www.kooapp.com/profile/prasanth__p_/">Kooapp</a> | <a href="bit.ly/prasanth__p_/">Portfolio</a>
 
-## 👇 Few things about me
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/PrasanthPradeep/PrasanthPradeep/assets/78849206/db53eeea-91e2-4720-9c07-cc509941a91b)
 
-
-<div>
-👋 Hello there, I'm Prasanth P, a passionate B.Tech CSE student with an insatiable curiosity for all things tech and programming.           
-</div>
-
-## 📌 Pinned
 
 <div>
 

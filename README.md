@@ -35,7 +35,7 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 ### <a href="https://bit.ly/prasanth__p_/" target="_blank"></a>
 
 
-<a href="bit.ly/prasanth__p_" target="_blank">
+<a href="https://bit.ly/prasanth__p_" target="_blank">
       <img src="https://media.licdn.com/dms/image/D4D16AQGmqIX-o2ZEoQ/profile-displaybackgroundimage-shrink_350_1400/0/1694098470041?e=1715212800&v=beta&t=St-McIRJMWLiSWF2ykPfZp-J4BrlTVp3rbm43YCFV7E" width="100%">
 </a>
 </div>

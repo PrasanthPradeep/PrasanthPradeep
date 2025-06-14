@@ -15,9 +15,8 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 <a href="https://prasanthp.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF6D00.svg?&style=flat-square&logo=&logoColor=white" alt="DEV.to"></a>
 <a href="https://github.com/sponsors/PrasanthPradeep/"><img src="https://img.shields.io/static/v1?label=Sponsor%20Me%20on&message=GitHub&color=green?style=plastic&logo=githubsponsors" /></a>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> |
-| ------------- | ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrasanthPradeep&theme=juicyfresh&no-bg=true" />
 </div><br>
 <div align="right"><img src="https://widgetbite.com/stats/PrasanthPradeep" alt="watching_count" /><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" /> since June 15 2025</div>

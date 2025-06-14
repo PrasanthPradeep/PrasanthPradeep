@@ -1,20 +1,23 @@
-![PrasanthPradeeep Github Readme](https://github.com/PrasanthPradeep/PrasanthPradeep/assets/78849206/cd4bcd9c-b592-4c4e-aab5-8b80b5e94d0b)
-
-
-# Hello there! It's me Prasanth P 👋
-
+<div align="center"> <img src="https://github.com/PrasanthPradeep/PrasanthPradeep/assets/78849206/cd4bcd9c-b592-4c4e-aab5-8b80b5e94d0b" alt="PrasanthPradeeep Github Readme" /> </div>
+<div align="center">
+<h1>Hello there! It's me Prasanth P 👋</h1>
+</div>
 
 ### A short intro:
 
 CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech | Let's connect! 🤝
-            
 
-### Links:
+<a href="https://www.linkedin.com/in/prasanth1010000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/prasanth__p_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.twitter.com/prasanth__p_/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=x&logoColor=white" alt="Facebook"></a>
+<a href="https://www.github.com/PrasanthPradeep/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=flat-square&logo=github&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/prasanth__p_" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://prasanthp.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF6D00.svg?&style=flat-square&logo=&logoColor=white" alt="DEV.to"></a>
+<a href="https://github.com/sponsors/PrasanthPradeep/"><img src="https://img.shields.io/static/v1?label=Sponsor%20Me%20on&message=GitHub&color=green?style=plastic&logo=githubsponsors" /></a>
 
-### <a href="https://www.linkedin.com/in/prasanth1010000/">linkedin</a> | <a href="https://www.github.com/PrasanthPradeep/">github</a> | <a href="https://www.twitter.com/prasanth__p_/">twitter</a> | <a href="https://www.instagram.com/prasanth__p_/">Instagram</a> | <a href="https://bit.ly/prasanth__p_">Portfolio</a>
-
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/PrasanthPradeep/PrasanthPradeep/assets/78849206/db53eeea-91e2-4720-9c07-cc509941a91b)
-<a href="prasanthp.me">    </a>
-![1694098470041](https://github.com/PrasanthPradeep/PrasanthPradeep/assets/78849206/2df8f675-9b74-4e7e-9edf-04ebdef93999)
-
-[![](https://visitcount.itsvg.in/api?id=PrasanthPradeep&label=Profile%20Views&color=2&pretty=true)](https://visitcount.itsvg.in)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> |
+| ------------- | ------------- | ------------- |
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PrasanthPradeep&theme=juicyfresh&no-bg=true" />
+</div><br>
+<div align="right"><img src="https://widgetbite.com/stats/PrasanthPradeep" alt="watching_count" /><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" /> since June 15 2025</div>

@@ -19,4 +19,4 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 | ------------- | ------------- |
 <div align="center">
 </div><br>
-<div align="right"><img src="https://widgetbite.com/stats/PrasanthPradeep" alt="watching_count" /><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" /> since June 15 2025</div>
+<div align="right"><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" /> since June 15 2025</div>

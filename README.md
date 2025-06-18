@@ -13,6 +13,7 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 <a href="https://www.github.com/PrasanthPradeep/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=flat-square&logo=github&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/prasanth__p_" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://prasanthp.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF6D00.svg?&style=flat-square&logo=&logoColor=white" alt="DEV.to"></a>
+<a href="[https://github.com/PrasanthPradeep/prasanthp/blob/40a04c230fd22ac343e0100c14d3b6d9ea41b6cc/Who's%20Prashu.apk](https://github.com/PrasanthPradeep/prasanthp/releases/download/v1.0.0/Who.s.Prashu.apk)" target="_blank"><img src="https://img.shields.io/badge/Download%20My%20APK-%23000000.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Who's Prashu APK"></a>
 <a href="https://github.com/sponsors/PrasanthPradeep/"><img src="https://img.shields.io/static/v1?label=Sponsor%20Me%20on&message=GitHub&color=green?style=plastic&logo=githubsponsors" /></a>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=neon&hide_border=true" /></a> |

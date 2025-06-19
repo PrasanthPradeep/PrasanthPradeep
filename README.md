@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/PrasanthPradeep/PrasanthPradeep/assets/78849206/cd4bcd9c-b592-4c4e-aab5-8b80b5e94d0b" alt="PrasanthPradeeep Github Readme" /> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/098bf10a-de34-430a-8b45-db2f83032238" alt="PrasanthPradeeep Github Readme" /> </div>
 <div align="center">
 <h1>Hello there! It's me Prasanth P 👋</h1>
 </div>

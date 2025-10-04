@@ -19,7 +19,7 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=neon&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=PrasanthPradeep&theme=radical" />
+<!--<img src="https://github-profile-trophy.vercel.app/?username=PrasanthPradeep&theme=radical" />-->
 <div align="center">
 </div><br>
 <div align="right"><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" /><img src="https://img.shields.io/static/v1?label=&message=since%20June%2015%202025&labelcolor=gray" /></div>

@@ -18,7 +18,7 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 
 <h3 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h3>
   <p align="center">
-    <a href="https://tublian.com/profile/PrasanthPradeep">
+    <a href="https://www.tublian.com/profile/PrasanthPradeep">
       <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/PrasanthPradeep?type=with_score" alt="Streetcred">
     </a>
   </p>

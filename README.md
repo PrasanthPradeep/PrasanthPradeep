@@ -16,6 +16,13 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 <a href="https://github.com/PrasanthPradeep/prasanthp/releases/download/v1.0.0/Prashu.apk" target="_blank"><img src="https://img.shields.io/badge/Download%20My%20APK-%23000000.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Who's Prashu APK"></a>
 <a href="https://github.com/sponsors/PrasanthPradeep/"><img src="https://img.shields.io/static/v1?label=Sponsor%20Me%20on&message=GitHub&color=green?style=plastic&logo=githubsponsors" /></a>
 
+<h3 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h3>
+  <p align="center">
+    <a href="https://tublian.com/profile/PrasanthPradeep">
+      <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/PrasanthPradeep?type=with_score" alt="Streetcred">
+    </a>
+  </p>
+  
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=neon&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br>

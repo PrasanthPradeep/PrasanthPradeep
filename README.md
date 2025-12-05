@@ -29,7 +29,7 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 <!--<img src="https://github-profile-trophy.vercel.app/?username=PrasanthPradeep&theme=radical" />-->
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PrasanthPradeep?cardType=level-alternate&theme=dark&preferLogin=false)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PrasanthPradeep&theme=dark&card_width=490&card_height=199)]<br>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PrasanthPradeep&theme=dark&card_width=480&card_height=199)<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph-dark.svg">

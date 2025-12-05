@@ -31,6 +31,12 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PrasanthPradeep?cardType=level-alternate&theme=dark&preferLogin=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PrasanthPradeep&theme=dark&card_height=199)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph.svg">
+</picture>
+
 <div align="center">
 </div><br>
 <div align="right"><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" /><img src="https://img.shields.io/static/v1?label=&message=since%20June%2015%202025&labelcolor=gray" /></div>

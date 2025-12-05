@@ -16,17 +16,21 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 <a href="https://github.com/PrasanthPradeep/prasanthp/releases/download/v1.0.0/Prashu.apk" target="_blank"><img src="https://img.shields.io/badge/Download%20My%20APK-%23000000.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Who's Prashu APK"></a>
 <a href="https://github.com/sponsors/PrasanthPradeep/"><img src="https://img.shields.io/static/v1?label=Sponsor%20Me%20on&message=GitHub&color=green?style=plastic&logo=githubsponsors" /></a>
 
-<h3 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h3>
+<!--<h3 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h3>-->
   <p align="center">
     <a href="https://www.tublian.com/profile/PrasanthPradeep">
       <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/PrasanthPradeep?type=with_score" alt="Streetcred">
     </a>
   </p>
   
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=neon&hide_border=true" /></a> |
+<!--| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=neon&hide_border=true" /></a> |
 | ------------- | ------------- |
-<br>
+<br>-->
 <!--<img src="https://github-profile-trophy.vercel.app/?username=PrasanthPradeep&theme=radical" />-->
+
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PrasanthPradeep?cardType=level-alternate&theme=dark&preferLogin=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PrasanthPradeep&theme=dark&card_height=199)
+
 <div align="center">
 </div><br>
 <div align="right"><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" /><img src="https://img.shields.io/static/v1?label=&message=since%20June%2015%202025&labelcolor=gray" /></div>

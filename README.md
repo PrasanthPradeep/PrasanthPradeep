@@ -1,11 +1,9 @@
-<div align="center"> <img src="https://github.com/user-attachments/assets/098bf10a-de34-430a-8b45-db2f83032238" alt="PrasanthPradeeep Github Readme" /></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/098bf10a-de34-430a-8b45-db2f83032238" alt="PrasanthPradeeep Github Readme" /></div>
 <div align="center">
-<h1>Hello there! It's me Prasanth P 👋</h1>
+<div align="center">
+  <h1>Hey 👋 I'm Prasanth P</h1>
+  <p><b>CSE'27 • Tech & AI Enthusiast • Builder by Curiosity</b></p>
 </div>
-
-### A short intro:
-
-CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech | Let's connect! 🤝
 
 <a href="https://www.linkedin.com/in/prasanth1010000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/prasanth__p_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -16,12 +14,33 @@ CSE'27 | Tech & AI enthusiast | Passionate about programming & learning new tech
 <a href="https://github.com/PrasanthPradeep/prasanthp/releases/download/v1.0.0/Prashu.apk" target="_blank"><img src="https://img.shields.io/badge/Download%20My%20APK-%23000000.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Who's Prashu APK"></a>
 <a href="https://github.com/sponsors/PrasanthPradeep/"><img src="https://img.shields.io/static/v1?label=Sponsor%20Me%20on&message=GitHub&color=green?style=plastic&logo=githubsponsors" /></a>
 
-<!--<h3 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h3>-->
+---
+<div align="left">
+<h3>🚀 About Me</h3>
+
+- 🎓 Computer Science student (Class of 2027)
+- 🤖 Interested in **AI, systems, browsers & automation**
+- 🛠️ Love building **real-world projects**, not just tutorials
+- 🌱 Currently learning through **open-source & competitive programming**
+- 🎯 Goal: Become a strong **software engineer with deep system understanding**
+
+<h3>🧠 What I’m Working On</h3>
+
+- 🧩 **DSA & Problem Solving** (LeetCode)
+- 🌐 **Web-based projects** (React, modern UI/UX)
+- 🤖 Exploring **AI-powered tools & automation**
+- 🛠️ Building and shipping **personal projects**
+</div>
+
+---
+<!--<h3 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h3>
   <p align="center">
     <a href="https://www.tublian.com/profile/PrasanthPradeep">
       <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/PrasanthPradeep?type=with_score" alt="Streetcred">
     </a>
-  </p>
+  </p>-->
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/prasanth__p_?theme=dark&font=Karma&ext=heatmap)
   
 <!--| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=neon&hide_border=true" /></a> |
 | ------------- | ------------- |

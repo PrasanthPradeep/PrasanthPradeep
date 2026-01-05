@@ -40,7 +40,7 @@
     </a>
   </p>-->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/prasanth__p_?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/prasanth__p_?theme=dark&font=Karma&ext=heatmap)<br>
   
 <!--| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasanthPradeep&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="Prasanth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthPradeep&layout=compact&theme=neon&hide_border=true" /></a> |
 | ------------- | ------------- |

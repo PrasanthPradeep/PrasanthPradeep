@@ -58,4 +58,5 @@
 
 <div align="center">
 </div><br>
-<div align="right"><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" /><img src="https://img.shields.io/static/v1?label=&message=since%20June%2015%202025&labelcolor=gray" /></div>
+<div align="right"><img src="https://img.shields.io/github/stars/PrasanthPradeep?label=Stars" alt="stars"><img alt="followers" src="https://img.shields.io/github/followers/PrasanthPradeep?label=Followers&style=social"><img src="https://komarev.com/ghpvc/?username=PrasanthPradeep&color=brightgreen" alt="watching_count" /><img src="https://visitor-badge.laobi.icu/badge?page_id=PrasanthPradeep" />
+<!-- <img src="https://img.shields.io/static/v1?label=&message=since%20June%2015%202025&labelcolor=gray" /> --></div>

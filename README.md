@@ -52,7 +52,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=PrasanthPradeep&theme=dark&card_width=380&card_height=199)<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph.svg">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph.svg"> -->
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph.svg">
 </picture>
 

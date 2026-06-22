@@ -50,7 +50,6 @@
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PrasanthPradeep?cardType=level-alternate&theme=dark&preferLogin=false)
 ![GitHub Streak](https://streak-stats.demolab.com?user=PrasanthPradeep&theme=dark&card_width=380&card_height=199)<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasanthPradeep/PrasanthPradeep/output/pacman-contribution-graph.svg">

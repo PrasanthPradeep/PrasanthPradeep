@@ -26,7 +26,7 @@
 
 <h3>🧠 What I’m Working On</h3>
 
-- 👷‍♂️ Building **Open Source Agentic Browser** (Prism AI Browser)
+- 👷‍♂️ Building **Open Source Projects**
 - 🧩 **DSA & Problem Solving** (LeetCode)
 - 🌐 **Web-based projects** (React, modern UI/UX)
 - 🤖 Exploring **AI-powered tools & automation**
